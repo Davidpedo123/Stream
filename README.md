@@ -1,2 +1,2 @@
 # Stream
-Este programa crea un servidor local, el cual trasmite envio desde la maquina en el que se ejecuto, mediante la camara delantera (puedes usar ngrok para que la url sea publica y se pueda acceder desde cualquier parte)
+This program creates a local server, which transmits data from the machine where it was executed, using the front camera (you can use ngrok to make the url public and accessible from anywhere).
